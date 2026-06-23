@@ -35,7 +35,7 @@ The project is structured following clean architecture principles to ensure scal
 
 | Splash and Authentication | Roommate Matching UI | Chat and Property Listings |
 | --- | --- | --- |
-| ![Auth](./assets/auth.png) | ![Matching](./assets/matching.png) | ![Chat](./assets/chat.png) |
+| ![Auth](./screenshots/auth.png) | ![Matching](./screenshots/matching.png) | ![Chat](./screenshots/chat.png) |
 
 
 
