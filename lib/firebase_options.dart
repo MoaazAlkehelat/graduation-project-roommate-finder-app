@@ -42,8 +42,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBg-oKE9BplgVT90lAp1aslt3VZPAoUfxw',
-    appId: '1:723344246922:web:4bd1a81261d106c8540573',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '723344246922',
     projectId: 'roommate-c6d62',
     authDomain: 'roommate-c6d62.firebaseapp.com',
@@ -52,8 +52,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyALC3xDJnymv43XZovptt4AGKWZZI6zjk0',
-    appId: '1:723344246922:ios:d14372179a438a72540573',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '723344246922',
     projectId: 'roommate-c6d62',
     storageBucket: 'roommate-c6d62.firebasestorage.app',
@@ -61,8 +61,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyALC3xDJnymv43XZovptt4AGKWZZI6zjk0',
-    appId: '1:723344246922:ios:d14372179a438a72540573',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '723344246922',
     projectId: 'roommate-c6d62',
     storageBucket: 'roommate-c6d62.firebasestorage.app',
@@ -70,8 +70,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBg-oKE9BplgVT90lAp1aslt3VZPAoUfxw',
-    appId: '1:723344246922:web:3c4aa86d52527cf4540573',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '723344246922',
     projectId: 'roommate-c6d62',
     authDomain: 'roommate-c6d62.firebaseapp.com',
@@ -80,8 +80,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDJCpVeqyP6Z5SZhWTnnDIYHCHTihaKne4',
-    appId: '1:723344246922:android:6dc908c1c68fdbb6540573',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '723344246922',
     projectId: 'roommate-c6d62',
     storageBucket: 'roommate-c6d62.firebasestorage.app',
